@@ -16,7 +16,7 @@ Cada notebook contém exercícios extraídos da plataforma BeeCrowd, que abordam
 
 ## Como usar
 1. Clone o repositório:
-git clone https://github.com/seu-usuario/beecrowd-programming-logic.git
+git clone https://github.com/giuliamf/BeeCrowd-Python-Notebook
 
 2. Navegue até o diretório e abra os notebooks em seu ambiente Jupyter:
 cd beecrowd-programming-logic
