@@ -25,9 +25,9 @@ jupyter notebook
 Cada notebook contém uma descrição do problema e minha solução detalhada, com comentários explicativos e análise da lógica por trás da implementação.
 
 ## Requisitos
-** Python 3.x
-** Jupyter Notebook
-** Pacotes adicionais podem ser necessários para exercícios avançados (detalhados nos respectivos notebooks)
+* Python 3.x
+* Jupyter Notebook
+* Pacotes adicionais podem ser necessários para exercícios avançados (detalhados nos respectivos notebooks)
 
 ## Contribuições
 Este repositório está em constante evolução, então contribuições são bem-vindas! Se você encontrar erros ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
