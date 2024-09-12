@@ -2,6 +2,8 @@
 
 Este repositório contém um conjunto de notebooks Jupyter (.ipynb) que documentam minha jornada de aprendizado de Lógica de Programação em Python, utilizando exercícios da plataforma BeeCrowd. Os desafios estão organizados em níveis, indo do 1 (iniciante) até o 9 (avançado), cobrindo conceitos essenciais da linguagem.
 
+> **Nota: Este repositório foi iniciado em 2021, mas continua recebendo atualizações eventuais, à medida que novos exercícios são adicionados e soluções existentes são melhoradas.**
+
 ## Objetivo
 O objetivo deste repositório é servir como um registro dos conceitos que aprendi, resolvendo problemas propostos pela BeeCrowd. Cada nível de dificuldade tem exercícios que reforçam a compreensão de tópicos fundamentais da linguagem Python.
 
